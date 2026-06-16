@@ -22,7 +22,10 @@ I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build
 **Design & Workflow Automation**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![Replit](https://img.shields.io/badge/replit-%2366717F.svg?style=for-the-badge&logo=replit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/gemini-%238E75C2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude AI](https://img.shields.io/badge/claude-%23D97706.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/antigravity-%232D3748.svg?style=for-the-badge)
 ---
 
 ### Featured Projects
@@ -37,7 +40,7 @@ I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build
 * **Link:** [jera-jimson-anniv.netlify.app](https://jera-jimson-anniv.netlify.app/)
 * **Stack:** HTML5, CSS3, JavaScript
 
-#### 3. Birthday Surprise Web App
+#### 3. Commision Surprise Web App
 * **Description:** A surprise web app featuring interactive front-end elements and custom animations.
 * **Link:** [hapib-surprise-web.netlify.app](https://hapib-surprise-web.netlify.app/)
 * **Stack:** HTML5, CSS3, JavaScript
